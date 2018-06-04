@@ -1,4 +1,4 @@
-# About Us
+# About FBISDme
 We are a team of passionate Clements High School student developers.
 
 ## [SkyView](https://skyview.fbisd.me)
